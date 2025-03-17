@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/login",
+    "pages/login_suc",
+    "pages/Speed",
+    "pages/location",
+    "pages/My",
+    "pages/S1et",
+    "pages/More",
+    "pages/Ring_test",
+    "pages/specific_rank"
+  ]
+}

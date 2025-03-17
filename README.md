@@ -1,0 +1,2 @@
+# Detect_Assistant
+一款基于ArkTs语言的仿交管12123鸿蒙应用
