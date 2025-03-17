@@ -1,0 +1,2 @@
+# Detect_Assistant
+一款基于ArtTs语言的仿交管12123鸿蒙应用，可用作静态管理页面
